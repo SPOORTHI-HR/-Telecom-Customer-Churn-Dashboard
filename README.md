@@ -24,7 +24,7 @@ Present insights in an interactive Power BI dashboard
 
 📂 Dataset
 
-Source: Public telecom churn dataset (Kaggle / Sample Dataset)
+Source: Public telecom churn dataset (Kaggle)
 
 Size: ~7,000 customer records
 
